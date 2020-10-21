@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our secon slide!"
 ---
-Your text
+_*A picture is worth a thousand words*_
 Use the left arrow to go back!
